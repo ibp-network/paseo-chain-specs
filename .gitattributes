@@ -1,1 +1,2 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+*.raw.json filter=lfs diff=lfs merge=lfs -text
